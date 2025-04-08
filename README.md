@@ -1,4 +1,4 @@
-# Group Generator
+# Crew Maker
 
 **A Python desktop application** (written with Tkinter) that creates random groups of people, each with specific role requirements (like *at least one Writer* or *one DP* per group). Great for film/crew projects or other creative collaboration tasks.
 
