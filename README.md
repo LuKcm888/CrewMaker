@@ -2,9 +2,6 @@
 
 **A Python desktop application** (written with Tkinter) that creates random groups of people, each with specific role requirements (like *at least one Writer* or *one DP* per group). Great for film/crew projects or other creative collaboration tasks.
 
-![Screenshot](./screenshot.png)
-*(If you have a screenshot, place it in the repo and reference it here.)*
-
 ---
 
 ## Features
